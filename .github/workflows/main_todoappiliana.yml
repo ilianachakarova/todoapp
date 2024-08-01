@@ -59,4 +59,4 @@ jobs:
           app-name: 'todoappiliana'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_81EBCB2607FA4B1FBB2E2AA933408F4C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_87987A56CF564F498947AB354408EF0F }}
